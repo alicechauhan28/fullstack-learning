@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.user
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# IDE
+.vs/
+.vscode/*
+!.vscode/extensions.json
+
+# OS
+.DS_Store
+Thumbs.db
